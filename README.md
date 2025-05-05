@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Gabriel Rodrigues
+# 👋 ¡Hola! Soy Gabriel Rodriguez
 
 🎓 Soy un joven entusiasta de la tecnología, apasionado por la robótica, la inteligencia artificial y el desarrollo de soluciones creativas para problemas reales. Desde muy joven he participado en competencias de innovación, representando a Venezuela con proyectos que promueven la inclusión, el desarrollo sostenible y la ingeniería aplicada.
 
