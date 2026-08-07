@@ -39,6 +39,8 @@
 - 🎥 TikTok: [@germ.grobot](https://www.tiktok.com/@germ.grobot)
 - 📸 Instagram: [@germ.grobot](https://www.instagram.com/germ.grobot)
 - 💻 GitHub: [RMGabrielRodriguezMujica](https://github.com/RMGabrielRodriguezMujica)
+- - 💻 GitHub: [https://www.linkedin.com/in/germ-grobot/
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 
 ---
 
